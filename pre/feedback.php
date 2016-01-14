@@ -31,7 +31,7 @@
     
     <div class="feedback_div">
         <div class="feedback_explanation_circle_div">
-        <a class="feedback_explanation_circle_a">Bişeyler yazmamız lazım buraya</a>
+        <a class="feedback_explanation_circle_a">Github deneme</a>
         </div>
     <div class="feedback_text_div">
     <textarea name="feedback" class="feedback_text" placeholder="Açıklama"></textarea>
