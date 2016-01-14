@@ -20,7 +20,7 @@
     <div class="nl_header_left">
     <i class="netlise_logo"></i>
         <div class=nl_header_right>
-    <a class="nl_header_right_logout" href="/">Çıkış Yap</a>
+    <a class="nl_header_right_logout" href="/">Çıkış Yapma</a>
     </div>
     </div>
 </div>
